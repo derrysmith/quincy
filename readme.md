@@ -1,5 +1,3 @@
-## quincy[^1]
+## [quincy][1]
 
-### References
-
-[^1]: ["Quincy Jones"](https://en.wikipedia.org/wiki/Quincy_Jones). en.wikipedia.org. Wikipedia.
+[1]: https://en.wikipedia.org/wiki/Quincy_Jones "Quincy Jones"
